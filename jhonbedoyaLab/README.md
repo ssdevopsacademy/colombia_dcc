@@ -5,8 +5,8 @@
 ### 2. The following are examples of git tools:
 - A: Apache Subversion, GitLab, GitHub <br>
 - B: Bitbucket, Gitlab, Github, monotone, CVS <br>
-- <del>C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS </del><br>
-- D: Bitbucket, GitLab, Github, Git <br>
+- C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS <br>
+- <del>D: Bitbucket, GitLab, Github, Git <br></del>
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
 - A. Git-Flow
