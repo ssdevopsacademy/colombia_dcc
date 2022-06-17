@@ -24,6 +24,7 @@ Answer: D
 - A. Git-Flow
 - B. feature Branches
 - C. Trunk-based development 
+
 Answer: C
 
 ### 4. the difference between "Commit" and "Add" commands is:
@@ -71,7 +72,7 @@ Answer: D
 - C. Feature branch code with bad structure, and git is unable to automatically resolve it. Developers have to delete the feature branch.
 - D. A & C
 
-Answer: A
+Answer: D
 
 ### 10. Exists two Git Workflow used in DevOps Practices:
 - A. Git tree-flow & gitFly
