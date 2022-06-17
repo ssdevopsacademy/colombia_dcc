@@ -32,9 +32,9 @@
 
 ### 7. Send changes to the master branch of your remote  Github repository:
 - A. github push origin master
-- B. git push origin moster ❌
+- B. git push origin moster 
 - C. git push oragun master
-- D. git push origin master
+- D. git push origin master ❌
 
 ### 8. In SCRUM, usually the User Stories are translated to the Technical Team as:
 - A. Features branches
