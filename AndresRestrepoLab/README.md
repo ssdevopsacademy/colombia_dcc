@@ -2,7 +2,7 @@
 ### 1. ***GIT is a type of Version Control System?***
 A. True
 ### 2. ***The following are examples of git tools:***
-B: Bitbucket, Gitlab, Github, monotone, CVS
+D: Bitbucket, GitLab, Github, Git
 ### 3. ***What is the versioning strategy / workflow that only has one main branch***
 C. Trunk-based development 
 ### 4. ***the difference between "Commit" and "Add" commands is:***
@@ -16,6 +16,6 @@ D. git push origin master
 ### 8. ***In SCRUM, usually the User Stories are translated to the Technical Team as:***
 B. Hot Fixes and Bug Fixes Branches
 ### 9. ***Merge conflicts are:***
-A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits.
+D. A & C
 ### 10. ***Exists two Git Workflow used in DevOps Practices:***
 B. Gitflow and Trunk-based development
