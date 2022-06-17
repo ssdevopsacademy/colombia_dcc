@@ -30,6 +30,7 @@ Answer: C
 - A. "Commit"" save all staged changes and "Add" includes a change in the working directory
 - B. "Add" save all staged changes and "Commit" includes a change in the working directory
 - C. "Commit" save all staged changes and "Add" only save one staged change
+
 Answer: A
 
 ### 5. Create a working copy of a local Github repository:
@@ -37,6 +38,7 @@ Answer: A
 - B. git /path/to/repository clone 
 - C. git clone /path/to/repository 
 - D. github clone /path/to/repository 
+
 Answer: C
 
 ### 6. Add one or more files to staging (index) to Github:
@@ -44,6 +46,7 @@ Answer: C
 - B. git * add * 
 - C. git add * 
 - D. git push add * 
+
 Answer: C
 
 ### 7. Send changes to the master branch of your remote  Github repository:
@@ -51,6 +54,7 @@ Answer: C
 - B. git push origin moster
 - C. git push oragun master
 - D. git push origin master
+
 Answer: D
 
 ### 8. In SCRUM, usually the User Stories are translated to the Technical Team as:
@@ -58,6 +62,7 @@ Answer: D
 - B. Hot Fixes and Bug Fixes Branches
 - C. Master Branches
 - D. A & B
+
 Answer: D
 
 ### 9. Merge conflicts are:
@@ -65,6 +70,7 @@ Answer: D
 - B. Code build Errors
 - C. Feature branch code with bad structure, and git is unable to automatically resolve it. Developers have to delete the feature branch.
 - D. A & C
+
 Answer: A
 
 ### 10. Exists two Git Workflow used in DevOps Practices:
@@ -72,6 +78,7 @@ Answer: A
 - B. Gitflow and Trunk-based development 
 - C. Git Master and Trunk-based development 
 - D. Git-tree flow & gitflow 
+
 Answer: B
 
 ---
