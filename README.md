@@ -86,5 +86,6 @@ Go to market faster than ever, leveraging SoftServe’s experts to deliver on ti
 Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
 
 ### Anibal Ortega
-Learning more about devops culture and how to implement it in technology companies. 
+Learning more about devops culture and how to implement it in technology companies.
+ 
 ---
