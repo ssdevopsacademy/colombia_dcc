@@ -77,4 +77,5 @@ Learn about something new for me, improve my programming basic knowledge and exp
 
 ### Luigi Giannandrea
 Learn about the hole DevOps cycle and how it is applied in current customers. Get a clear view about each technology related with this discipline and be prepared to apply this knowledge into our careers.
+
 ---
