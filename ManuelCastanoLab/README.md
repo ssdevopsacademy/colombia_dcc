@@ -22,3 +22,9 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 > Github, Gitlab and Bitbucket are services that allow storing and managing remote repositories (mainly, but they also offer many other functions in their services).
 > > Git is a Git tool? other examples of tools are: Gitkraken or Gitlens (in vscode)
 
+### 3. What is the versioning strategy / workflow that only has one main branch
+- A. Git-Flow
+- B. feature Branches
+- C. Trunk-based development ✅
+> I think some teams may prefer this way of working to avoid merger hell.
+
