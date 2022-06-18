@@ -77,4 +77,5 @@
 
 I expect to learn the basic understanding of the DevOps tools (virtualization, monitoring, automation, etc) so I can apply them in the development cycle. Also, I expect to learn and understand all the stages and concepts of CI/CD so I can help in delivering constant high quality software while reducing the development time.
 Thanks to the SoftServe team for giving me this incredible opportunity!
+
 ---
