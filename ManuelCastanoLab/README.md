@@ -14,3 +14,11 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - B. False
 > it is also a distributed, allowing to have remote repositories in which to share all the history (or versions) that our repository has gone through
 
+### 2. The following are examples of git tools:
+- A: Apache Subversion, GitLab, GitHub
+- B: Bitbucket, Gitlab, Github, monotone, CVS
+- C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS
+- D: Bitbucket, GitLab, Github, Git ✅
+> Github, Gitlab and Bitbucket are services that allow storing and managing remote repositories (mainly, but they also offer many other functions in their services).
+> > Git is a Git tool? other examples of tools are: Gitkraken or Gitlens (in vscode)
+
