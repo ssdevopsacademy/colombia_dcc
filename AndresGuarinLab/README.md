@@ -74,6 +74,7 @@
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
 ### Andres Guarin Salazar
+
 I expect to learn the basic understanding of the DevOps tools (virtualization, monitoring, automation, etc) so I can apply them in the development cycle. Also, I expect to learn and understand all the stages and concepts of CI/CD so I can help in delivering constant high quality software while reducing the development time.
 Thanks to the SoftServe team for giving me this incredible opportunity!
 ---
