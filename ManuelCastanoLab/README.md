@@ -9,3 +9,8 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 
 ---
 
+### 1. GIT is a type of Version Control System?
+- A. True ✅
+- B. False
+> it is also a distributed, allowing to have remote repositories in which to share all the history (or versions) that our repository has gone through
+
