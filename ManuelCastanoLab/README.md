@@ -69,3 +69,9 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - D. A & C
 > It is a good practice that when we are resolving a conflict we are in communication with the people in the team whose work may be affected.
 
+### 10. Exists two Git Workflow used in DevOps Practices:
+- A. Git tree-flow & gitFly
+- B. Gitflow and Trunk-based development ✅
+- C. Git Master and Trunk-based development
+- D. Git-tree flow & gitflow
+
