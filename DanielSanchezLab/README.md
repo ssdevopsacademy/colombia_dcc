@@ -37,6 +37,6 @@ As someone who's not from a technological academic background *per se* and who's
 
 ---
 ### Daniel Sanchez
-# Economist and Lawyer
-# Data Scientist and Software Developer
+#### Economist and Lawyer
+#### Data Scientist and Software Developer
 ---
