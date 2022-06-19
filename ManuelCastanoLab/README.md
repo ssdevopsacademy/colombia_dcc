@@ -48,3 +48,10 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - D. git push add *
 > Another alternative could be `git add .` (where `.` is the current directory) as long as we are standing on the root directory of our repository.
 
+### 7. Send changes to the master branch of your remote  Github repository:
+- A. github push origin master
+- B. git push origin moster
+- C. git push oragun master
+- D. git push origin master ✅
+> This not only works for Github, this command sends the changes to the remote repository we have set with the name `origin` and to the `master` branch no matter if our remote repository is on github, gitlab, or any other.
+
