@@ -41,3 +41,10 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - D. github clone /path/to/repository
 > `git clone` can clone either local or remote repositories.
 
+### 6. Add one or more files to staging (index) to Github:
+- A. github add *
+- B. git * add *
+- C. git add * ✅
+- D. git push add *
+> Another alternative could be `git add .` (where `.` is the current directory) as long as we are standing on the root directory of our repository.
+
