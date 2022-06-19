@@ -62,3 +62,10 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - D. A & B 
 > I'm not sure if a hotfix or a bugfix can be user stories by themselves, because they are usually born from a flaw in the design or implementation of another story.
 
+### 9. Merge conflicts are:
+- A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits. ✅
+- B. Code build Errors
+- C. Feature branch code with bad structure, and git is unable to automatically resolve it. Developers have to delete the feature branch.
+- D. A & C
+> It is a good practice that when we are resolving a conflict we are in communication with the people in the team whose work may be affected.
+
