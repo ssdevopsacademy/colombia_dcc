@@ -26,7 +26,7 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - A. Git-Flow
 - B. feature Branches
 - C. Trunk-based development ✅
-> I think some teams may prefer this way of working to avoid merger hell.
+> I think some teams may prefer this way of working to avoid merge hell.
 
 ### 4. the difference between "Commit" and "Add" commands is:
 - A. "Commit"" save all staged changes and "Add" includes a change in the working directory ✅
