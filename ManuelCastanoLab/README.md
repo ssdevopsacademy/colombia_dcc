@@ -55,3 +55,10 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - D. git push origin master ✅
 > This not only works for Github, this command sends the changes to the remote repository we have set with the name `origin` and to the `master` branch no matter if our remote repository is on github, gitlab, or any other.
 
+### 8. In SCRUM, usually the User Stories are translated to the Technical Team as:
+- A. Features branches ✅
+- B. Hot Fixes and Bug Fixes Branches
+- C. Master Branches
+- D. A & B 
+> I'm not sure if a hotfix or a bugfix can be user stories by themselves, because they are usually born from a flaw in the design or implementation of another story.
+
