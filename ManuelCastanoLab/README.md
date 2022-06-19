@@ -12,7 +12,7 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 ### 1. GIT is a type of Version Control System?
 - A. True ✅
 - B. False
-> it is also a distributed, allowing to have remote repositories in which to share all the history (or versions) that our repository has gone through
+> It is also a distributed, allowing to have remote repositories in which to share all the history (or versions) that our repository has gone through.
 
 ### 2. The following are examples of git tools:
 - A: Apache Subversion, GitLab, GitHub
@@ -20,7 +20,7 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS
 - D: Bitbucket, GitLab, Github, Git ✅
 > Github, Gitlab and Bitbucket are services that allow storing and managing remote repositories (mainly, but they also offer many other functions in their services).
-> > Git is a Git tool? other examples of tools are: Gitkraken or Gitlens (in vscode)
+> > Git is a Git tool? other examples of tools are: Gitkraken or Gitlens (in vscode).
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
 - A. Git-Flow
