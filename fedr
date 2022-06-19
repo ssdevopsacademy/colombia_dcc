@@ -1,0 +1,38 @@
+[33mcommit 47f44cd2d1727333e3fa20767b6c16f42d6e1606[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/c1_m1_julian_gallo[m[33m)[m
+Author: Julian Gallo Londono <julianlondono@outlook.com>
+Date:   Thu Jun 16 22:53:36 2022 -0500
+
+    New Comment added
+
+[33mcommit de93764e981a9dc4a0369fd194a7a3a4785ba38f[m
+Author: Julian Gallo Londono <julianlondono@outlook.com>
+Date:   Thu Jun 16 22:51:44 2022 -0500
+
+    readme created and questions a
+
+[33mcommit fd31399462e9ddcab2bbf2f8e8b4128f007c1194[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feature/cristian.tovar[m[33m, [m[1;31morigin/Juan_Camilo_Arango_Valle_branch[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 649c76f d3ae4a2
+Author: ssdevopsacademy <107649411+ssdevopsacademy@users.noreply.github.com>
+Date:   Thu Jun 16 16:44:09 2022 -0500
+
+    Merge pull request #1 from ssdevopsacademy/initial_doc_git_module_paulo_ganado
+    
+    Initial doc git module paulo ganado
+
+[33mcommit d3ae4a2e83a12ad76c18f3a8e4ca63ba189c31a4[m
+Author: PauloCGC <pcganadocaro@gmail.com>
+Date:   Thu Jun 16 16:07:32 2022 -0500
+
+    gitignore .DS_Store included
+
+[33mcommit 53b3934d6c64f69cf129f9fc82670dbf44aa4428[m
+Author: PauloCGC <pcganadocaro@gmail.com>
+Date:   Thu Jun 16 16:05:25 2022 -0500
+
+    Initial README file for Git Module - Laboratory & Tasks
+
+[33mcommit 649c76fd5c5d4aecf820df3d572f364324da5dc0[m[33m ([m[1;31morigin/Git_AlexPedraza[m[33m)[m
+Author: ssdevopsacademy <107649411+ssdevopsacademy@users.noreply.github.com>
+Date:   Thu Jun 16 15:25:02 2022 -0500
+
+    Initial commit
