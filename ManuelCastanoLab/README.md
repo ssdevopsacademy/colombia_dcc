@@ -34,3 +34,10 @@ In this file you will find my solutions to the 2 tasks proposed in the [README](
 - C. "Commit" save all staged changes and "Add" only save one staged change
 > The `git add` command adds changes from the working directory to the staging area and the `git commit` command commits changes found in the staging area to the local repository, but unstaged changes may still exist in the working directory.
 
+### 5. Create a working copy of a local Github repository:
+- A. clone git /path/to/repository
+- B. git /path/to/repository clone
+- C. git clone /path/to/repository ✅
+- D. github clone /path/to/repository
+> `git clone` can clone either local or remote repositories.
+
