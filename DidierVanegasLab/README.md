@@ -9,14 +9,14 @@
 
 ---
 ### 1. GIT is a type of Version Control System?
-- A. True <br> :heavy_check_mark:
-- B. False <br>
+- A. True :heavy_check_mark:
+- B. False
 
 ### 2. The following are examples of git tools:
-- A: Apache Subversion, GitLab, GitHub <br>
-- B: Bitbucket, Gitlab, Github, monotone, CVS <br>
-- C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS <br>
-- D: Bitbucket, GitLab, Github, Git <br> :heavy_check_mark:
+- A: Apache Subversion, GitLab, GitHub
+- B: Bitbucket, Gitlab, Github, monotone, CVS
+- C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS
+- D: Bitbucket, GitLab, Github, Git :heavy_check_mark:
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
 - A. Git-Flow 
