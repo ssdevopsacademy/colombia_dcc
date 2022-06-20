@@ -84,4 +84,7 @@ I Expect to really improve my knowledge in DevOps tools and practices as right n
 ### Juan Pablo Montoya Pareja
 My expectations of the course is to know different DevOps tools and methodologies and meet how to apply them in the development process. 
 
+### Jhon Alexander Bedoya Loaiza
+I wanna achive the spertice to become a DevOps engenier 
+
 ---
