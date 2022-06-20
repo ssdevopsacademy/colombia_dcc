@@ -63,6 +63,10 @@ My expectations of the course is to know different DevOps tools and methodologie
 
 ### Santiago Largo
 Is to start a new path in my general knowledge and maybe start working in this new field
+
+
+### Julian Munera
+learn about other technologies, get more knowledge and improve the one i already have.
 ---
 
 
