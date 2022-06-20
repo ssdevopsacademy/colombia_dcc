@@ -47,7 +47,7 @@
 ## Students Comments - What are your expectations of the course?
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
-### Student SoftServe 1
+### Student Juan Calad
 I expect to learn DevOps best practices, tools to achieve better CI and CD, GitOps practices, take applications to production.
 
 ---
