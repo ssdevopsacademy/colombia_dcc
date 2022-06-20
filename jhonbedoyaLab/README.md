@@ -53,3 +53,9 @@
 - <del>B. Gitflow and Trunk-based development </del>
 - C. Git Master and Trunk-based development 
 - D. Git-tree flow & gitflow 
+
+
+## How to solve a merge conflict
+
+- If we have a merge conflict git don't merge we ned manual confirmation for the changes.
+-  
