@@ -81,6 +81,11 @@ Learn about the hole DevOps cycle and how it is applied in current customers. Ge
 
 ### Jose Alcaraz
 DevOps is currently a very important methodology for companies due to the benefits in the software development flow that it provides. I am very excited to learn about DevOps and acquire knowledge from people who have a lot of experience working with this topic.
+### Julian gallo Londoño
+I Expect to really improve my knowledge in DevOps tools and practices as right now is a little confusing for me as developer
+
+### Juan Pablo Montoya Pareja
+My expectations of the course is to know different DevOps tools and methodologies and meet how to apply them in the development process.
 
 ---
 
