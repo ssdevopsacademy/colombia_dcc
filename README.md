@@ -74,7 +74,7 @@
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
 ### Student SoftServe 1
-The need to innovate has never been more pronounced. Today’s managers know the importance of innovation firsthand but are not always sure of where to begin or how to make it a core competency within the business.
+Espero del curso poder adquirir conocimientos, manejo de herramientas, aprender acerca de las actitudes y habilidades para mi vida laboral y necesarias para desempeñarme como DevOps, aprender a trabajar en equipo, y aprender a solucionar problemas.
 
 ### Student SoftServe 2
 Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
