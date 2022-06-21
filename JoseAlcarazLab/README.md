@@ -53,7 +53,7 @@
 - **D. A & B** ✅
 
 ### 9. Merge conflicts are:
-- **A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits.** ✅
+- **A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits. ✅**
 - B. Code build Errors
 - C. Feature branch code with bad structure, and git is unable to automatically resolve it. Developers have to delete the feature branch.
 - D. A & C
