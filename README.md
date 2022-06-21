@@ -73,6 +73,6 @@
 ## Students Comments - What are your expectations of the course?
 
 ### Andrés Restrepo Cadavid
-Learn about something new for me, improve my programming basic knowledge and expand to new fields of work. 
+Learn about something new for me, improve my programming basic knowledge and expand to new fields of work.
 
 ---
