@@ -71,3 +71,6 @@
 
 ---
 ## Students Comments - What are your expectations of the course?
+---
+## Ana Roman
+I would like to learn much more about the DevOps culture, especially integrations with Docker, and everything that helps me grow as a Dev for my future. ❤️👩‍💻
