@@ -9,45 +9,57 @@
 
 ---
 ### 1. GIT is a type of Version Control System?
+
 - A. True <br>
 
+
 ### 2. The following are examples of git tools:
+
 - D: Bitbucket, GitLab, Github, Git <br>
 
+
 ### 3. What is the versioning strategy / workflow that only has one main branch
-- C. Trunk-based development <br>
+
+- C. Trunk-based development 
+
 
 ### 4. the difference between "Commit" and "Add" commands is:
-- A. "Commit"" save all staged changes and "Add" includes a change in the working directory <br>
+
+- A. "Commit"" save all staged changes and "Add" includes a change in the working directory
+
 
 ### 5. Create a working copy of a local Github repository:
-- C. git clone /path/to/repository <br>
+
+- C. git clone /path/to/repository 
+
 
 ### 6. Add one or more files to staging (index) to Github:
-- C. git add * <br>
+
+- C. git add * 
+
 
 ### 7. Send changes to the master branch of your remote  Github repository:
-- D. git push origin master <br>
+
+- D. git push origin master
+
 
 ### 8. In SCRUM, usually the User Stories are translated to the Technical Team as:
-- D. A & B <br>
+
+- A. Features branches
+
 
 ### 9. Merge conflicts are:
-- D. A & C <br>
+
+- A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits.
+
 
 ### 10. Exists two Git Workflow used in DevOps Practices:
-- B. Gitflow and Trunk-based development <br>
+
+- B. Gitflow and Trunk-based development 
 
 ---
 ## ¡Thanks Guys for beaing Part of the SoftServe Crash Courses! 
 ## Made with ❤ by 
 ![N|Solid](https://mms.businesswire.com/media/20211116006314/es/832960/4/SoftServe_Logo_2.jpg)
 
----
-## Students Comments - What are your expectations of the course?
-#TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
-### Student Juan Calad
-I expect to learn DevOps best practices, tools to achieve better CI and CD, GitOps practices, take applications to production.
-
----
