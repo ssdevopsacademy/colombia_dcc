@@ -74,6 +74,6 @@
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
 ### Student SoftServe 1
-I will achive the expertice to be a DevOps enginier.
+I will achive the expertice to be a DevOps enginier. 
 
 ---
