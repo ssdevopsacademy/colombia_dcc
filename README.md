@@ -72,7 +72,11 @@
 ---
 ## Students Comments - What are your expectations of the course?
 
-### Andrés Restrepo Cadavid
-Learn about something new for me, improve my programming basic knowledge and expand to new fields of work. 
+#TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
+
+### Jaime Andres Velez
+
+My expectations for this course  are to understand better the other technologies besides those related to backend and frontend, also improve my skills to work in teams using git, and apply the knowledge learned in a real project
+
 
 ---
