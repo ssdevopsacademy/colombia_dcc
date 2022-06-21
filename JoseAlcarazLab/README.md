@@ -16,7 +16,7 @@
 - A: Apache Subversion, GitLab, GitHub
 - B: Bitbucket, Gitlab, Github, monotone, CVS
 - C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS
-- **D: Bitbucket, GitLab, Github, Git** ✅
+- **D: Bitbucket, GitLab, Github, Git ✅**
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
 - A. Git-Flow
