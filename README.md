@@ -72,15 +72,6 @@
 ---
 ## Students Comments - What are your expectations of the course?
 
-### Andrés Restrepo Cadavid
-Learn about something new for me, improve my programming basic knowledge and expand to new fields of work. 
-
-### Luigi Giannandrea
-Learn about the hole DevOps cycle and how it is applied in current customers. Get a clear view about each technology related with this discipline and be prepared to apply this knowledge into our careers.
-
-### Julian gallo Londoño
-I Expect to really improve my knowledge in DevOps tools and practices as right now is a little confusing for me as developer
-
 ### Juan Pablo Montoya Pareja
 My expectations of the course is to know different DevOps tools and methodologies and meet how to apply them in the development process. 
 
