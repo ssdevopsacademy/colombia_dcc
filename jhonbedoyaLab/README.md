@@ -59,4 +59,6 @@
 
 - If we have a merge conflict git don't merge we ned manual confirmation for the changes.
 - When we are on main branchs and we run the comand git log --all --graph we have the information about the confict.
-- 
+- when we try to git merge /feature/c1_m1_jhon_bedoya git show the issue.
+- If run git status they show the confict README.me
+- Manual I can select what version of the file I can save. or if can preserve all the parts.
