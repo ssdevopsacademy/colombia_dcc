@@ -74,4 +74,8 @@
 
 In general, our students say they expect to improve both their knowledge and skills of DevOps tools and processes.
 
+## Edwin Correa
+I hope to learn and apply the concepts of this DeVops culture and learn about the deployment and integration of applications
+
+
 ---
