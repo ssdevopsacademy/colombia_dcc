@@ -72,15 +72,12 @@
 ---
 ## Students Comments - What are your expectations of the course?
 
-
 ### Andrés Restrepo Cadavid
-Learn about something new for me, improve my programming basic knowledge and expand to new fields of work. 
-
-### Luigi Giannandrea
-Learn about the hole DevOps cycle and how it is applied in current customers. Get a clear view about each technology related with this discipline and be prepared to apply this knowledge into our careers.
+Learn about something new for me, improve my programming basic knowledge and expand to new fields of work.
 
 ### Jose Alcaraz
 DevOps is currently a very important methodology for companies due to the benefits in the software development flow that it provides. I am very excited to learn about DevOps and acquire knowledge from people who have a lot of experience working with this topic.
+
 ### Julian gallo Londoño
 I Expect to really improve my knowledge in DevOps tools and practices as right now is a little confusing for me as developer
 
