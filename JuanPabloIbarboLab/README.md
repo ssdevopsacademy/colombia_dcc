@@ -50,3 +50,5 @@
 ## Students Comments - What are your expectations of the course?
 
 My main expectation is to know how to use  git and github collaboration tools for a more agile approach. also to use it in my projects to put more functionalities and fix bugs.
+
+and have fun
