@@ -109,6 +109,6 @@
 
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
-### Student SoftServe 1
+### Student Juan Pablo Cano Saldarriaga
 
 My expectations on this course are basically learn the most I can about DevOps culture and all of its components, because one day I´d like to work as a DevOps engineer.
