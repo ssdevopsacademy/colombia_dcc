@@ -37,7 +37,7 @@
 ### 6. Add one or more files to staging (index) to Github:
 - A. github add *
 - B. git * add * 
-- **C. git add *<-**
+- **C. git add * <-**
 - D. git push add * 
 
 ### 7. Send changes to the master branch of your remote  Github repository:
