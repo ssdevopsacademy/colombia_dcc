@@ -91,5 +91,6 @@ Continuously enhance the digital approach and fine-tune the business to meet cus
 
 ### Sebastian Restrepo
 Learn more of the practices of devops and make emphasis on continuous integration
-
+Second part
+I created a Pull requests to the edit README.md file from the main branch, I consider we should use tags for good practices.
 ---
