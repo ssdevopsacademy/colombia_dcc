@@ -69,3 +69,14 @@
 ## Made with ❤ by 
 ![N|Solid](https://mms.businesswire.com/media/20211116006314/es/832960/4/SoftServe_Logo_2.jpg)
 
+
+---
+## Solving conflicts:
+
+
+- Pull the new changes from the repo
+- Resolve the conflicts adding the changes in the files 
+- Add the files
+- Merge the changes into the main branch
+
+---
