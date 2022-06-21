@@ -71,8 +71,7 @@
 
 ---
 ## Students Comments - What are your expectations of the course?
+#TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
 ### Andrés Restrepo Cadavid
 Learn about something new for me, improve my programming basic knowledge and expand to new fields of work.
-
----
