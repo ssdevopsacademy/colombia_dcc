@@ -58,5 +58,5 @@
 ## How to solve a merge conflict
 
 - If we have a merge conflict git don't merge we ned manual confirmation for the changes.
-- When run the comand git lod --all --graph /feature/c1_m1_jhon_bedoya I have the information about the confict.
+- When we are on main branchs and we run the comand git lod --all --graph we have the information about the confict.
 - 
