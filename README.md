@@ -75,6 +75,9 @@
 ## Students Comments - What are your expectations of the course?
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
+### Student SoftServe Jaime Andres Velez
+My expectations for this course  are to understand better the other technologies besides those related to backend and frontend, also improve my skills to work in teams using git, and apply the knowledge learned in a real project
+---
 ### Student SoftServe Karen Ramirez
 Espero del curso poder adquirir conocimientos, manejo de herramientas, aprender acerca de las actitudes y habilidades para mi vida laboral y necesarias para desempeñarme como DevOps, aprender a trabajar en equipo, y aprender a solucionar problemas.
 
