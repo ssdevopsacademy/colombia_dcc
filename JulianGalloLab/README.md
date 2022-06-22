@@ -9,34 +9,34 @@
 
 ---
 ### 1. GIT is a type of Version Control System?
-- A. True <br>
+### - A. True
 
 ### 2. The following are examples of git tools:
-- D: Bitbucket, GitLab, Github, Git <br>
+### - D. Bitbucket, GitLab, Github, Git
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
-- C. Trunk-based development 
+### - C. Trunk-based development 
 
 ### 4. the difference between "Commit" and "Add" commands is:
-- A. "Commit"" save all staged changes and "Add" includes a change in the working directory
+### - A. "Commit"" save all staged changes and "Add" includes a change in the working directory
 
 ### 5. Create a working copy of a local Github repository:
-- C. git clone /path/to/repository 
+### - C. git clone /path/to/repository 
 
 ### 6. Add one or more files to staging (index) to Github:
-- C. git add * 
+### - C. git add * 
 
 ### 7. Send changes to the master branch of your remote  Github repository:
-- D. git push origin master
+### - D. git push origin master
 
 ### 8. In SCRUM, usually the User Stories are translated to the Technical Team as:
-- D. A & B
+### - D. A & B
 
 ### 9. Merge conflicts are:
-- A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits.
+### - A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits.
 
 ### 10. Exists two Git Workflow used in DevOps Practices:
-- B. Gitflow and Trunk-based development 
+### - B. Gitflow and Trunk-based development 
 
 ---
 ## ¡Thanks Guys for beaing Part of the SoftServe Crash Courses! 
@@ -47,7 +47,7 @@
 ## Students Comments - What are your expectations of the course?
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
-### Student Julian Gallo Londono
+### Julian Gallo Londono
 I Expect to really improve my knowledge in DevOps tools and practices as right now is a little confusing for me as developer  
 
 ---
