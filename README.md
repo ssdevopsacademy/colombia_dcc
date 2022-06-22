@@ -13,7 +13,11 @@
 
 ### 1. GIT is a type of Version Control System?
 
-- A. True <br>
+<<<<<<< HEAD
+
+- # A. True <br>
+- A. True <br> X
+  > > > > > > > c9361f192fd9ef5fee408db0ab4f69bbbccd9445
 - B. False <br>
 
 ### 2. The following are examples of git tools:
@@ -21,28 +25,48 @@
 - A: Apache Subversion, GitLab, GitHub <br>
 - B: Bitbucket, Gitlab, Github, monotone, CVS <br>
 - C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS <br>
-- D: Bitbucket, GitLab, Github, Git <br>
+- D: Bitbucket, GitLab, Github, Git <br> X
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
 
-- A. Git-Flow
+<<<<<<< HEAD
+
+- # A. Git-Flow
+- A. Git-Flow X
+  > > > > > > > c9361f192fd9ef5fee408db0ab4f69bbbccd9445
 - B. feature Branches
 - C. Trunk-based development
 
 ### 4. the difference between "Commit" and "Add" commands is:
 
 - A. "Commit"" save all staged changes and "Add" includes a change in the working directory
-- B. "Add" save all staged changes and "Commit" includes a change in the working directory
+- B. "Add" save all staged changes and "Commit" includes a change in the working directory X
 - C. "Commit" save all staged changes and "Add" only save one staged change
 
 ### 5. Create a working copy of a local Github repository:
 
 - A. clone git /path/to/repository
+  <<<<<<< HEAD
 - B. git /path/to/repository clone
 - C. git clone /path/to/repository
 - D. github clone /path/to/repository
 
 ### 6. Add one or more files to staging (index) to Github:
+
+=======
+
+- B. git /path/to/repository clone
+- C. git clone /path/to/repository X
+- D. github clone /path/to/repository
+
+### 6. Add one or more files to staging (index) to Github:
+
+- A. github add \*
+- B. git _ add _
+- C. git add \* X
+- D. git push add \*
+
+  > > > > > > > c9361f192fd9ef5fee408db0ab4f69bbbccd9445
 
 - A. github add \*
 - B. git _ add _
@@ -54,18 +78,18 @@
 - A. github push origin master
 - B. git push origin moster
 - C. git push oragun master
-- D. git push origin master
+- D. git push origin master X
 
 ### 8. In SCRUM, usually the User Stories are translated to the Technical Team as:
 
-- A. Features branches
+- A. Features branches X
 - B. Hot Fixes and Bug Fixes Branches
 - C. Master Branches
 - D. A & B
 
 ### 9. Merge conflicts are:
 
-- A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits.
+- A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits. X
 - B. Code build Errors
 - C. Feature branch code with bad structure, and git is unable to automatically resolve it. Developers have to delete the feature branch.
 - D. A & C
@@ -73,22 +97,12 @@
 ### 10. Exists two Git Workflow used in DevOps Practices:
 
 - A. Git tree-flow & gitFly
-- B. Gitflow and Trunk-based development
+- B. Gitflow and Trunk-based development X
 - C. Git Master and Trunk-based development
 - D. Git-tree flow & gitflow
 
 ---
 
-## ¡Thanks Guys for beaing Part of the SoftServe Crash Courses!
-
-## Made with ❤ by
-
-![N|Solid](https://mms.businesswire.com/media/20211116006314/es/832960/4/SoftServe_Logo_2.jpg)
-
 ---
 
 ## Students Comments - What are your expectations of the course?
-
-### Kevin Parra
-
-I would like to learn DevOps practices and tools. Also I would like to know more about Docker and its utility in software development.
