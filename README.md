@@ -78,6 +78,9 @@
 ### Student SoftServe Karen Ramirez
 Espero del curso poder adquirir conocimientos, manejo de herramientas, aprender acerca de las actitudes y habilidades para mi vida laboral y necesarias para desempeñarme como DevOps, aprender a trabajar en equipo, y aprender a solucionar problemas.
 
+### Student Juan Calad
+I want to learn a LOT of DevOps, branching strategies, tools, best practices, security, some automation and more.
+
 ### Student SoftServe 2
 Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
 
