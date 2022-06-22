@@ -13,11 +13,7 @@
 
 ### 1. GIT is a type of Version Control System?
 
-<<<<<<< HEAD
-
-- # A. True <br>
 - A. True <br> X
-  > > > > > > > c9361f192fd9ef5fee408db0ab4f69bbbccd9445
 - B. False <br>
 
 ### 2. The following are examples of git tools:
@@ -29,11 +25,7 @@
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
 
-<<<<<<< HEAD
-
-- # A. Git-Flow
 - A. Git-Flow X
-  > > > > > > > c9361f192fd9ef5fee408db0ab4f69bbbccd9445
 - B. feature Branches
 - C. Trunk-based development
 
@@ -46,7 +38,6 @@
 ### 5. Create a working copy of a local Github repository:
 
 - A. clone git /path/to/repository
-  <<<<<<< HEAD
 - B. git /path/to/repository clone
 - C. git clone /path/to/repository
 - D. github clone /path/to/repository
@@ -64,13 +55,6 @@
 - A. github add \*
 - B. git _ add _
 - C. git add \* X
-- D. git push add \*
-
-  > > > > > > > c9361f192fd9ef5fee408db0ab4f69bbbccd9445
-
-- A. github add \*
-- B. git _ add _
-- C. git add \*
 - D. git push add \*
 
 ### 7. Send changes to the master branch of your remote Github repository:
