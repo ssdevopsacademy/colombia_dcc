@@ -75,6 +75,10 @@
 ## Students Comments - What are your expectations of the course?
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
+
+### Luis Angel Naranjo
+IT professionals often do not have a correct definition of the term DevOps. With this course I hope to learn everything related to this profile, its functions and good practices to have optimal developments in time and performance.
+
 ### Student SoftServe Karen Ramirez
 Espero del curso poder adquirir conocimientos, manejo de herramientas, aprender acerca de las actitudes y habilidades para mi vida laboral y necesarias para desempeñarme como DevOps, aprender a trabajar en equipo, y aprender a solucionar problemas.
 
@@ -87,9 +91,6 @@ Go to market faster than ever, leveraging SoftServe’s experts to deliver on ti
 ### Student SoftServe 4
 Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
 
-### Student SoftServe 5
-this is the latest comment that you should delete
-
 ### Student SoftServe 6
 The need to innovate has never been more pronounced. Today’s managers know the importance of innovation firsthand but are not always sure of where to begin or how to make it a core competency within the business.
 
@@ -101,24 +102,6 @@ Go to market faster than ever, leveraging SoftServe’s experts to deliver on ti
 
 ### Student SoftServe 9
 Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
-
-### Student SoftServe 10
-this is the latest comment that you should delete 
-
-### Student SoftServe 11
-this is the latest comment that you should delete
-
-### Student SoftServe 12
-this is the latest comment that you should delete
-
-### Student SoftServe 13
-this is the latest comment that you should delete
-
-### Student SoftServe 14
-this is the latest comment that you should delete
-
-### Student SoftServe 15
-this is the latest comment that you should delete
 
 ### Student SoftServe Giovanny Del Valle
 #TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
