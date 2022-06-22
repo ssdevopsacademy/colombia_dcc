@@ -110,6 +110,9 @@ this is the latest comment that you should delete
 ### Student SoftServe 15
 this is the latest comment that you should delete
 
+### Student SoftServe 16
+#TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
+
 ---
 ### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
 
