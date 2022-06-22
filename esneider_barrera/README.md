@@ -2,6 +2,7 @@
 
 # DevOps Crash course -​ GIT From Zero
 ## Welcome to Git Laboratory - Module 1
+Esneider Barrera
 
 ### Tasks
 1. Answer the following questions in a new README file in a new folder. Use the path: NameLastnameLab/README.md
@@ -71,16 +72,6 @@
 
 ---
 ## Students Comments - What are your expectations of the course?
-#TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
-### Student SoftServe 1
-The need to innovate has never been more pronounced. Today’s managers know the importance of innovation firsthand but are not always sure of where to begin or how to make it a core competency within the business.
-
-### Student SoftServe 2
-Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
-
-### Student SoftServe 3
-Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
-
-### Student SoftServe 4
-Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
+### Student SoftServe Esneider Barrera
+My expectations in this course are learning devOps and mosly create DevOps flow with aws. 
