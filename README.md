@@ -88,7 +88,7 @@ Go to market faster than ever, leveraging SoftServe’s experts to deliver on ti
 Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
 
 ### Student SoftServe 5
-this is the latest comment that you should delete
+I want to know the main technologies used in the market. My principal goal is adapt to the best practices learning and unleraning, so I will be in the correct and variant path. I will give my best so you consider me as a worthy candidate to work with SoftServe. 
 
 ### Student SoftServe 6
 The need to innovate has never been more pronounced. Today’s managers know the importance of innovation firsthand but are not always sure of where to begin or how to make it a core competency within the business.
