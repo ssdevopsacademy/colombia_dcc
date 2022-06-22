@@ -88,4 +88,35 @@ Continuously enhance the digital approach and fine-tune the business to meet cus
 ### Student SoftServe 5
 this is the latest comment that you should delete
 
+### Student SoftServe 6
+The need to innovate has never been more pronounced. Today’s managers know the importance of innovation firsthand but are not always sure of where to begin or how to make it a core competency within the business.
+
+### Student SoftServe 7
+Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
+
+### Student SoftServe 8
+Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
+
+### Student SoftServe 9
+Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
+
+### Student SoftServe 10
+this is the latest comment that you should delete 
+
+### Student SoftServe 11
+this is the latest comment that you should delete
+
+### Student SoftServe 12
+this is the latest comment that you should delete
+
+### Student SoftServe 13
+this is the latest comment that you should delete
+
+### Student SoftServe 14
+this is the latest comment that you should delete
+
+### Student SoftServe 15
+this is the latest comment that you should delete
+
+### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
 ---
