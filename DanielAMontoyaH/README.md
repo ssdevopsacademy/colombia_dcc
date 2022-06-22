@@ -72,5 +72,6 @@
 ---
 ## Students Comments - What are your expectations of the course?
 
+### Student SoftServe Daniel Montoya 
 My expectations are to learn about DevOps and Software QA from scratch so I can reinvent my selft on this new world of programming
 I am a System Engineer with over 10 years of Full Stack PHP development
