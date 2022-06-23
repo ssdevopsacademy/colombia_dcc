@@ -23,7 +23,7 @@
 - D. git push origin master
 
 ### 8. In SCRUM, usually the User Stories are translated to the Technical Team as:
-- B. Hot Fixes and Bug Fixes Branches
+- A. Features branches
 
 ### 9. Merge conflicts are:
 - D. A & C
