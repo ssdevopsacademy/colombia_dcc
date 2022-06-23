@@ -9,82 +9,68 @@
 
 ---
 ### 1. GIT is a type of Version Control System?
-- A. True <br>
-- B. False <br>
+- **A. True**
+- B. False
 
 ### 2. The following are examples of git tools:
-- A: Apache Subversion, GitLab, GitHub <br>
-- B: Bitbucket, Gitlab, Github, monotone, CVS <br>
-- C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS <br>
-- D: Bitbucket, GitLab, Github, Git <br>
+- A: Apache Subversion, GitLab, GitHub
+- B: Bitbucket, Gitlab, Github, monotone, CVS
+- C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS
+- **D: Bitbucket, GitLab, Github, Git**
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
 - A. Git-Flow
 - B. feature Branches
-- C. Trunk-based development 
+- **C. Trunk-based development**
 
 ### 4. the difference between "Commit" and "Add" commands is:
 - A. "Commit"" save all staged changes and "Add" includes a change in the working directory
-- B. "Add" save all staged changes and "Commit" includes a change in the working directory
+- **B. "Add" save all staged changes and "Commit" includes a change in the working directory**
 - C. "Commit" save all staged changes and "Add" only save one staged change
 
 ### 5. Create a working copy of a local Github repository:
 - A. clone git /path/to/repository
-- B. git /path/to/repository clone 
-- C. git clone /path/to/repository 
-- D. github clone /path/to/repository 
+- B. git /path/to/repository clone
+- **C. git clone /path/to/repository**
+- D. github clone /path/to/repository
 
 ### 6. Add one or more files to staging (index) to Github:
 - A. github add *
-- B. git * add * 
-- C. git add * 
-- D. git push add * 
+- B. git * add *
+- **C. git add ***
+- D. git push add *
 
 ### 7. Send changes to the master branch of your remote  Github repository:
 - A. github push origin master
 - B. git push origin moster
 - C. git push oragun master
-- D. git push origin master
+- **D. git push origin master**
 
 ### 8. In SCRUM, usually the User Stories are translated to the Technical Team as:
 - A. Features branches
 - B. Hot Fixes and Bug Fixes Branches
 - C. Master Branches
-- D. A & B
+- **D. A & B**
 
 ### 9. Merge conflicts are:
-- A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits.
+- **A. Normal events that occurs when Git is unable to automatically resolve differences in code between two commits.**
 - B. Code build Errors
 - C. Feature branch code with bad structure, and git is unable to automatically resolve it. Developers have to delete the feature branch.
 - D. A & C
 
 ### 10. Exists two Git Workflow used in DevOps Practices:
 - A. Git tree-flow & gitFly
-- B. Gitflow and Trunk-based development 
-- C. Git Master and Trunk-based development 
-- D. Git-tree flow & gitflow 
+- **B. Gitflow and Trunk-based development**
+- C. Git Master and Trunk-based development
+- D. Git-tree flow & gitflow
 
 ---
-## ¡Thanks Guys for beaing Part of the SoftServe Crash Courses! 
-## Made with ❤ by 
+## ¡Thanks Guys for beaing Part of the SoftServe Crash Courses!
+## Made with ❤ by
 ![N|Solid](https://mms.businesswire.com/media/20211116006314/es/832960/4/SoftServe_Logo_2.jpg)
 
 ---
 ## Students Comments - What are your expectations of the course?
 
-### Student Juan Pabo Castañeda Marín SoftServe comment 1
-Gain and improve devops skills than i been got it just by my self.
-
-### Student Juan Pabo Castañeda Marín SoftServe comment 2
-Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue (i would say that i´m with this).
-
-### Student Juan Pabo Castañeda Marín SoftServe comment 3
-Help to create faster solutions with rights tools and knowlegde.
-
-### Student Juan Pabo Castañeda Marín SoftServe comment 4
-Be aware of tools that help me to understand security and learn about it.
-
-
-In general, our students say they expect to improve both their knowledge and skills of DevOps tools and processes.
-
----
+### Daniel Cano Suárez
+I would like to learn and development skills in software development
