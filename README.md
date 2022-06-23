@@ -78,4 +78,7 @@ Learn about something new for me, improve my programming basic knowledge and exp
 ### Luigi Giannandrea
 Learn about the hole DevOps cycle and how it is applied in current customers. Get a clear view about each technology related with this discipline and be prepared to apply this knowledge into our careers.
 
+### Andres Eduardo Lopez
+my expectations of the course is to improve my current skills to be a more complete developer.
+
 ---
