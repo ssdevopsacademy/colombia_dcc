@@ -97,6 +97,11 @@ The need to innovate has never been more pronounced. Today’s managers know the
 ### Student SoftServe 7
 Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
 
+
+### Andres Eduardo Lopez
+my expectations of the course is to improve my current skills to be a more complete developer.
+
+=======
 ### Student SoftServe 8
 Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
 
@@ -110,7 +115,6 @@ Continuously enhance the digital approach and fine-tune the business to meet cus
 I expect from this course to strengthen my previous knowledge such as git, linux or docker. I hope to get started on topics that I have not covered before such as infrastructure as code, scripting, configuration management, among others, and finally I hope to learn a little about the day to day work as a devops engineer.
 
 ### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
----
 
 ### Didier Vanegas
 
