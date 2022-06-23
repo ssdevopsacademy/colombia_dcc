@@ -2,6 +2,7 @@
 
 # DevOps Crash course -​ GIT From Zero
 ## Welcome to Git Laboratory - Module 1
+Esneider Barrera
 
 ### Tasks
 1. Answer the following questions in a new README file in a new folder. Use the path: NameLastnameLab/README.md
@@ -9,35 +10,35 @@
 
 ---
 ### 1. GIT is a type of Version Control System?
-- **A. True** <br>
+- A. **True** <br>
 - B. False <br>
 
 ### 2. The following are examples of git tools:
 - A: Apache Subversion, GitLab, GitHub <br>
 - B: Bitbucket, Gitlab, Github, monotone, CVS <br>
 - C: Mercurial, Monotone, Apache Subversion, Bazaar, CVS <br>
-- **D: Bitbucket, GitLab, Github, Git** <br>
+- D: **Bitbucket, GitLab, Github, Git** <br>
 
 ### 3. What is the versioning strategy / workflow that only has one main branch
-- A. Git-Flow
+- A. **Git-Flow**
 - B. feature Branches
-- **C. Trunk-based development**
+- C. Trunk-based development 
 
 ### 4. the difference between "Commit" and "Add" commands is:
-- **A. "Commit"" save all staged changes and "Add" includes a change in the working directory**
-- B. "Add" save all staged changes and "Commit" includes a change in the working directory
+- A. "Commit"" save all staged changes and "Add" includes a change in the working directory
+- B. **"Add" save all staged changes and "Commit" includes a change in the working directory**
 - C. "Commit" save all staged changes and "Add" only save one staged change
 
 ### 5. Create a working copy of a local Github repository:
 - A. clone git /path/to/repository
 - B. git /path/to/repository clone 
-- **C. git clone /path/to/repository**
+- C.**git clone /path/to/repository**
 - D. github clone /path/to/repository 
 
 ### 6. Add one or more files to staging (index) to Github:
 - A. github add *
 - B. git * add * 
-- **C. git add ***
+- **C**. **git add** *
 - D. git push add * 
 
 ### 7. Send changes to the master branch of your remote  Github repository:
@@ -65,17 +66,12 @@
 - D. Git-tree flow & gitflow 
 
 ---
-## ¡Thanks Guys for being Part of the SoftServe Crash Courses! 
+## ¡Thanks Guys for beaing Part of the SoftServe Crash Courses! 
 ## Made with ❤ by 
 ![N|Solid](https://mms.businesswire.com/media/20211116006314/es/832960/4/SoftServe_Logo_2.jpg)
 
 ---
 ## Students Comments - What are your expectations of the course?
 
-### Juan Guillermo Morales
-Learn basics about DevOps, understand software development life cycle and expand to new fields of work. 
-
-### Luigi Giannandrea
-Learn about the hole DevOps cycle and how it is applied in current customers. Get a clear view about each technology related with this discipline and be prepared to apply this knowledge into our careers.
-
----
+### Student SoftServe Esneider Barrera
+My expectations in this course are learning devOps and mosly create DevOps flow with aws. 
