@@ -1,8 +1,12 @@
-# First part of the Laboratory 1
+## -- readme file activity -- 
+
+## 1ST part of the Laboratory 1
+
+
 ### 1. ***GIT is a type of Version Control System?***
 A. True
 ### 2. ***The following are examples of git tools:***
-D: Bitbucket, GitLab, Github, Git
+D. Bitbucket, GitLab, Github, Git
 ### 3. ***What is the versioning strategy / workflow that only has one main branch***
 C. Trunk-based development 
 ### 4. ***the difference between "Commit" and "Add" commands is:***
