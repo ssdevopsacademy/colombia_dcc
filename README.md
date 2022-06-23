@@ -108,3 +108,7 @@ Continuously enhance the digital approach and fine-tune the business to meet cus
 
 ### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
 ---
+
+### Didier Vanegas
+
+Learn the fundamentals of the different tools and patterns used in DevOps and apply that knowleged to my day to day work
