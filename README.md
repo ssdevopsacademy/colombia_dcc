@@ -106,6 +106,9 @@ Continuously enhance the digital approach and fine-tune the business to meet cus
 ### Student SoftServe Giovanny Del Valle
 #TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
 
+### Manuel Castaño
+I expect from this course to strengthen my previous knowledge such as git, linux or docker. I hope to get started on topics that I have not covered before such as infrastructure as code, scripting, configuration management, among others, and finally I hope to learn a little about the day to day work as a devops engineer.
+
 ### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
 ---
 
