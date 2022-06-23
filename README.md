@@ -78,4 +78,7 @@ Learn about something new for me, improve my programming basic knowledge and exp
 ### Luigi Giannandrea
 Learn about the hole DevOps cycle and how it is applied in current customers. Get a clear view about each technology related with this discipline and be prepared to apply this knowledge into our careers.
 
+### Manuel Castaño
+I expect from this course to strengthen my previous knowledge such as git, linux or docker. I hope to get started on topics that I have not covered before such as infrastructure as code, scripting, configuration management, among others, and finally I hope to learn a little about the day to day work as a devops engineer.
+
 ---
