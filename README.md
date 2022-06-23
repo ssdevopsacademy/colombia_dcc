@@ -138,3 +138,9 @@ I expect from this course to strengthen my previous knowledge such as git, linux
 ### Didier Vanegas
 
 Learn the fundamentals of the different tools and patterns used in DevOps and apply that knowleged to my day to day work
+
+### Miguel Bastidas
+
+my expectations of this course is get knowledge about how depovs is implemented in big projects and what would be the best practices to follow for get a good sofware product, also as developer how should be the practices i have to follow to obtain a good relation with the operations deparment
+
+
