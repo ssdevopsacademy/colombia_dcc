@@ -75,6 +75,8 @@
 ## Students Comments - What are your expectations of the course?
 #TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
 
+### Julian Gallo Londono
+I Expect to really improve my knowledge in DevOps tools and practices as right now is a little confusing for me as developer  
 ### Student SoftServe Luigi Giannandrea
 My expectations about the SoftServe DevOps Crash Course are foucused in learning more about the Philosophy of DevOps, the most used tools and how this helps to the current clients to improve the software development life cycle. Thanks a lot!
 
