@@ -93,8 +93,14 @@ Gain advanced insight on how to build, market, and deliver the perfect solution 
 ### Student SoftServe 3
 Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
 
-### Student SoftServe 4
-Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
+
+
+### Juan Camilo Arango Valle
+DevOps and clod computing is the future, companies around the world are starting to understand all the benefits of this technologies, i'm so glad to be part of a crash course where i can learn about this, i'm excited to enter this world and finally understand the concept of devops and everything that includes this topic
+
+
+### Didier Vanegas
+
 
 ### Student Juan Pabo Castañeda Marín SoftServe comment 1
 Gain and improve devops skills than i been got it just by my self.
@@ -110,22 +116,10 @@ Be aware of tools that help me to understand security and learn about it.
 
 
 In general, our students say they expect to improve both their knowledge and skills of DevOps tools and processes.
-### Student SoftServe 6
-The need to innovate has never been more pronounced. Today’s managers know the importance of innovation firsthand but are not always sure of where to begin or how to make it a core competency within the business.
-
-### Student SoftServe 7
-Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
 
 
 ### Andres Eduardo Lopez
 my expectations of the course is to improve my current skills to be a more complete developer.
-
-=======
-### Student SoftServe 8
-Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
-
-### Student SoftServe 9
-Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
 
 ### Student SoftServe Giovanny Del Valle
 #TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
@@ -142,5 +136,4 @@ Learn the fundamentals of the different tools and patterns used in DevOps and ap
 ### Miguel Bastidas
 
 my expectations of this course is get knowledge about how depovs is implemented in big projects and what would be the best practices to follow for get a good sofware product, also as developer how should be the practices i have to follow to obtain a good relation with the operations deparment
-
 
