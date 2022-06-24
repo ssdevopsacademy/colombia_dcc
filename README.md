@@ -131,7 +131,7 @@ Continuously enhance the digital approach and fine-tune the business to meet cus
 #TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
 
 <<<<<<< HEAD
-### Student SoftServe 17
+### Student SoftServe Julian Munera
 I want to improve skills and get more knowledge
 =======
 ### Manuel Castaño
