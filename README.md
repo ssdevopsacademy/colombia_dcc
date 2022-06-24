@@ -143,4 +143,7 @@ Learn the fundamentals of the different tools and patterns used in DevOps and ap
 
 my expectations of this course is get knowledge about how depovs is implemented in big projects and what would be the best practices to follow for get a good sofware product, also as developer how should be the practices i have to follow to obtain a good relation with the operations deparment
 
+### Giovanny Del Valle
+I expect this course to teach me how to practice the Devops role within a development team and also to strengthen my previous knowledge.
+
 
