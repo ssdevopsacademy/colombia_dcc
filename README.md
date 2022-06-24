@@ -1,5 +1,3 @@
-# colombia_dcc
- Colombia SoftServe DevOps Crash Course
  ![N|Solid](https://media-exp2.licdn.com/dms/image/C4E0BAQEhqEYDn2-LkA/company-logo_100_100/0/1580391093627?e=1663200000&v=beta&t=EO7vueG3ailmZ1RfTbu4knkfQGiqf5LZa1RJ90nt5do)
 
  # DevOps Crash course -​ GIT From Zero
@@ -77,14 +75,46 @@
 ### Student SoftServe Jose Alcaraz
 DevOps is currently a very important methodology for companies due to the benefits in the software development flow that it provides. I am very excited to learn about DevOps and acquire knowledge from people who have a lot of experience working with this topic.
 
+### Student SoftServe Luigi Giannandrea
+My expectations about the SoftServe DevOps Crash Course are foucused in learning more about the Philosophy of DevOps, the most used tools and how this helps to the current clients to improve the software development life cycle. Thanks a lot!
+
+### Luis Angel Naranjo
+IT professionals often do not have a correct definition of the term DevOps. With this course I hope to learn everything related to this profile, its functions and good practices to have optimal developments in time and performance.
+
 ### Student SoftServe Karen Ramirez
 Espero del curso poder adquirir conocimientos, manejo de herramientas, aprender acerca de las actitudes y habilidades para mi vida laboral y necesarias para desempeñarme como DevOps, aprender a trabajar en equipo, y aprender a solucionar problemas.
 
+### Student Juan Calad
+I want to learn a LOT of DevOps, branching strategies, tools, best practices, security, some automation and more.
+
+### Student SoftServe 2
+Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
+
+### Student SoftServe 3
+Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
+
+### Student SoftServe 4
+Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
+
+### Student Juan Pabo Castañeda Marín SoftServe comment 1
+Gain and improve devops skills than i been got it just by my self.
+
+### Student Juan Pabo Castañeda Marín SoftServe comment 2
+Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue (i would say that i´m with this).
+
+### Student Juan Pabo Castañeda Marín SoftServe comment 3
+Help to create faster solutions with rights tools and knowlegde.
+
+### Student Juan Pabo Castañeda Marín SoftServe comment 4
+Be aware of tools that help me to understand security and learn about it.
 ### Student SoftServe 6
 The need to innovate has never been more pronounced. Today’s managers know the importance of innovation firsthand but are not always sure of where to begin or how to make it a core competency within the business.
 
 ### Student SoftServe 7
 Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
+
+### Andres Eduardo Lopez
+my expectations of the course is to improve my current skills to be a more complete developer.
 
 ### Student SoftServe 8
 Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
@@ -92,6 +122,7 @@ Go to market faster than ever, leveraging SoftServe’s experts to deliver on ti
 ### Student SoftServe 9
 Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
 
+<<<<<<< HEAD
 ### Student SoftServe 10
 this is the latest comment that you should delete
 
@@ -146,3 +177,25 @@ Now, you can add the changes and make a commit. Once this is done, the conflict 
 `git push origin branch` <br>
 
 ---
+=======
+### Student SoftServe Giovanny Del Valle
+#TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
+
+### Manuel Castaño
+I expect from this course to strengthen my previous knowledge such as git, linux or docker. I hope to get started on topics that I have not covered before such as infrastructure as code, scripting, configuration management, among others, and finally I hope to learn a little about the day to day work as a devops engineer.
+
+### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
+
+### Didier Vanegas
+
+Learn the fundamentals of the different tools and patterns used in DevOps and apply that knowleged to my day to day work
+
+### Miguel Bastidas
+
+my expectations of this course is get knowledge about how depovs is implemented in big projects and what would be the best practices to follow for get a good sofware product, also as developer how should be the practices i have to follow to obtain a good relation with the operations deparment
+
+### Giovanny Del Valle
+I expect this course to teach me how to practice the Devops role within a development team and also to strengthen my previous knowledge.
+
+
+>>>>>>> 20e29f67ffb7854400043980cd2ab0b6f8a1071e
