@@ -30,7 +30,7 @@ this script will only ask you to enter a password for the sftp server and will e
 this script will raise a sftp server with docker, using the `atmoz/sftp` image, setting `sftpuser` as the user and exposing the service on port 2222 (local machine) or 22 (container). If the server password was not previously set by the `startup.sh` script, this script will ask for it. Additionally `id_container_server` file is created with the container identifier but this is only to facilitate the removal of the container in the `cleanup.sh` scrip.
 
 ### `Dockerfile`
-this file details the construction of the sftpclient image, the details are in the same file, just clarify that for the construction of the image is made using `entry.sh` script.
+this file details the construction of the sftpclient image, the details are in the same file, just clarify that for the construction of the image is made using `entry.sh` script as entrypoint (or CMD in this case).
 ```sh
 # entry.sh
 scriptPath=$(dirname "$(readlink -f "$0")")
@@ -45,11 +45,16 @@ This script extracts the environment when running a container based on the `sftp
 
 Example: 
 ```sh
+# to build it
+docker build --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') -t sftpclient:latest .
+```
+```sh
+# to run it
 docker run --name mysftpclient -d -e SSHPASS=s0m3P4ss -e SFTPSERVER_ADDR=172.17.0.1 -e SFTPSERVER_PORT=2222 sftpclient:latest
 ```
 
 ### `sftp_connection.sh`
-This script only uses the sftp server password (which should be in the `SSHPASS` variable) to make a connection and put the `content.log` file in it. This connection is made through the network `bridge`, the default network of docker, and launches the connection against the address provided by the environment variable `SFTPSERVER_ADDR` and the port provided by the environment variable `SFTPSERVER_PORT`, if these variables are not set, the requests are launched against the address `172.17.0.1` port `22`, which by default is the address of the host in the network bridge and default port for ssh service.
+This script only uses the sftp server password (which should be in the `SSHPASS` variable) to make a connection and put the `storeme.txt` file in it. This connection is made through the network `bridge`, the default network of docker, and launches the connection against the address provided by the environment variable `SFTPSERVER_ADDR` and the port provided by the environment variable `SFTPSERVER_PORT`, if these variables are not set, the requests are launched against the address `172.17.0.1` port `22`, which by default is the address of the host in the network bridge and default port for ssh service.
 
 ### `sftp_client.sh`
 this script automates the process of building the `sftpclient` image and running it using a password set by `starup.sh` (or by yourself), setting the sftp server address to `172.17.0.1` with port `2222` (the same as the one the server binds to in the `sftp_server.sh` script). Additionally `id_container_client` file is created with the container identifier but this is only to facilitate the removal of the container in the `cleanup.sh` scrip.
