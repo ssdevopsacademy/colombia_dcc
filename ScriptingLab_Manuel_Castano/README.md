@@ -53,6 +53,8 @@ docker build --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') -t sftpclie
 docker run --name mysftpclient -d -e SSHPASS=s0m3P4ss -e SFTPSERVER_ADDR=172.17.0.1 -e SFTPSERVER_PORT=2222 sftpclient:latest
 ```
 
+> an improvement of this dockerfile is that you could create a user so that the contain does not run as root user. I do not do it now because I am short of time
+
 ### `sftp_connection.sh`
 This script only uses the sftp server password (which should be in the `SSHPASS` variable) to make a connection and put the `storeme.txt` file in it. This connection is made through the network `bridge`, the default network of docker, and launches the connection against the address provided by the environment variable `SFTPSERVER_ADDR` and the port provided by the environment variable `SFTPSERVER_PORT`, if these variables are not set, the requests are launched against the address `172.17.0.1` port `22`, which by default is the address of the host in the network bridge and default port for ssh service.
 
@@ -64,3 +66,5 @@ this script shuts down and removes the containers, images and files to leave eve
 
 ### `log_saver.py`
 this python script saves the logs of both the server and the sftp client mentioned above, and stores them in the files `server.log` and `client.log`. To run it is to have 2 containers up, one with the server and one with the client, both containers must have a name, then run the following command: `log_saver.py -s server -c client`, where the `-s` parameter is the name of the server and the `-c` parameter is the name of the client.
+
+>this script by default overwrites the contents of the `server.log` and `client.log` files every time it is run. this is not optimal but I can't improve it at the moment because I am short of time.
