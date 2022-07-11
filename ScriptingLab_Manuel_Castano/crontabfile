@@ -1,0 +1,1 @@
+* * * * * /bin/bash /root/sftp_connection.sh >> /var/log/sftp_connection.log 2>&1
