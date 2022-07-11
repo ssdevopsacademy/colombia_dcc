@@ -53,7 +53,7 @@ docker build --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') -t sftpclie
 docker run --name mysftpclient -d -e SSHPASS=s0m3P4ss -e SFTPSERVER_ADDR=172.17.0.1 -e SFTPSERVER_PORT=2222 sftpclient:latest
 ```
 
-> an improvement of this dockerfile is that you could create a user so that the contain does not run as root user. I do not do it now because I am short of time
+> an improvement of this dockerfile is that you could create a user so that the container does not run as root user. I do not do it now because I am short of time.
 
 ### `sftp_connection.sh`
 This script only uses the sftp server password (which should be in the `SSHPASS` variable) to make a connection and put the `storeme.txt` file in it. This connection is made through the network `bridge`, the default network of docker, and launches the connection against the address provided by the environment variable `SFTPSERVER_ADDR` and the port provided by the environment variable `SFTPSERVER_PORT`, if these variables are not set, the requests are launched against the address `172.17.0.1` port `22`, which by default is the address of the host in the network bridge and default port for ssh service.
