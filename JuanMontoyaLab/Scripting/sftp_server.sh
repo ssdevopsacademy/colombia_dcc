@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if ! test -f sftpKey.pub; then
-    ssh-keygen -f sftpKey -N SFTP
+    ssh-keygen  -t rsa -f sftpKey -q -N ""
 fi
 
 echo "FROM ubuntu:22.04
