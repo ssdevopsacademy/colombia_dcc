@@ -1,1 +1,1 @@
-*/1 * * * *  /bin/my_bash
+*/10 * * * *  /bin/my_bash

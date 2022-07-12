@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Se conecto : $(date)"
-#sftp jemunera_sftp@172.17.0.2
+#echo "Se conecto : $(date)"
+sftp jemunera_sftp@172.17.0.2
 #sleep 4
 #exit
