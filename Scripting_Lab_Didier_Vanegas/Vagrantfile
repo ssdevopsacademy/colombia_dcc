@@ -1,0 +1,10 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "bento/ubuntu-20.04"
+  config.vm.provision "file", source: "sftp-install.sh", destination: "sftp-install.sh"
+  config.vm.provision "file", source: "sftp.Dockerfile", destination: "sftp.Dockerfile"
+  config.vm.provision "file", source: "client.Dockerfile", destination: "client.Dockerfile"
+  config.vm.provision "file", source: "connect-ftp.sh", destination: "connect-ftp.sh"
+  config.vm.provision "file", source: "connect-cron", destination: "connect-cron"
+  config.vm.provision :shell, path: "bootstrap-vm.sh"
+  config.vm.network "private_network", ip: "192.168.56.20"
+end

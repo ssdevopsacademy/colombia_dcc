@@ -1,0 +1,1 @@
+* * * * * sh /home/connect-ftp.sh >> /var/log/cron.log 2>&1
