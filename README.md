@@ -121,28 +121,22 @@ Go to market faster than ever, leveraging SoftServe’s experts to deliver on ti
 
 ### Student SoftServe 9
 Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
-
-<<<<<<< HEAD
-### Student SoftServe 10
-this is the latest comment that you should delete
-
-### Student SoftServe 11
-this is the latest comment that you should delete
-
-### Student SoftServe 12
-this is the latest comment that you should delete
-
-### Student SoftServe 13
-this is the latest comment that you should delete
-
-### Student SoftServe 14
-this is the latest comment that you should delete
-
-### Student SoftServe 15
-this is the latest comment that you should delete
-
-### Student SoftServe 16
+### Student SoftServe Giovanny Del Valle
 #TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
+
+### Manuel Castaño
+I expect from this course to strengthen my previous knowledge such as git, linux or docker. I hope to get started on topics that I have not covered before such as infrastructure as code, scripting, configuration management, among others, and finally I hope to learn a little about the day to day work as a devops engineer.
+
+### Didier Vanegas
+
+Learn the fundamentals of the different tools and patterns used in DevOps and apply that knowleged to my day to day work
+
+### Miguel Bastidas
+
+my expectations of this course is get knowledge about how depovs is implemented in big projects and what would be the best practices to follow for get a good sofware product, also as developer how should be the practices i have to follow to obtain a good relation with the operations deparment
+
+### Giovanny Del Valle
+I expect this course to teach me how to practice the Devops role within a development team and also to strengthen my previous knowledge.
 
 ---
 ### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
@@ -177,25 +171,3 @@ Now, you can add the changes and make a commit. Once this is done, the conflict 
 `git push origin branch` <br>
 
 ---
-=======
-### Student SoftServe Giovanny Del Valle
-#TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
-
-### Manuel Castaño
-I expect from this course to strengthen my previous knowledge such as git, linux or docker. I hope to get started on topics that I have not covered before such as infrastructure as code, scripting, configuration management, among others, and finally I hope to learn a little about the day to day work as a devops engineer.
-
-### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
-
-### Didier Vanegas
-
-Learn the fundamentals of the different tools and patterns used in DevOps and apply that knowleged to my day to day work
-
-### Miguel Bastidas
-
-my expectations of this course is get knowledge about how depovs is implemented in big projects and what would be the best practices to follow for get a good sofware product, also as developer how should be the practices i have to follow to obtain a good relation with the operations deparment
-
-### Giovanny Del Valle
-I expect this course to teach me how to practice the Devops role within a development team and also to strengthen my previous knowledge.
-
-
->>>>>>> 20e29f67ffb7854400043980cd2ab0b6f8a1071e
