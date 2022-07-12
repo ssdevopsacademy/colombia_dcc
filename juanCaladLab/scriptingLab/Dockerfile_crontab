@@ -1,0 +1,13 @@
+FROM ubuntu:20.04
+
+# Install cron
+RUN apt update && apt -y install cron tzdata nano sshpass
+
+# Create the log file to be able to run tail
+RUN touch /var/log/cron.log
+
+# Setup cron job
+RUN (crontab -l ; echo "*/1 * * * * sshpass -p 123456 ssh -o StrictHostKeyChecking=no root@172.17.0.3 >> /var/log/cron.log 2>&1") | crontab
+
+# Run the command on container startup
+CMD cron && tail -f /var/log/cron.log
