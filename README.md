@@ -75,6 +75,9 @@
 ### Student SoftServe Jose Alcaraz
 DevOps is currently a very important methodology for companies due to the benefits in the software development flow that it provides. I am very excited to learn about DevOps and acquire knowledge from people who have a lot of experience working with this topic.
 
+### Juan Pablo Montoya Pareja
+My expectations of the course is to know different DevOps tools and methodologies and meet how to apply them in the development process.
+
 ### Student SoftServe Luigi Giannandrea
 My expectations about the SoftServe DevOps Crash Course are foucused in learning more about the Philosophy of DevOps, the most used tools and how this helps to the current clients to improve the software development life cycle. Thanks a lot!
 
@@ -101,6 +104,11 @@ Be aware of tools that help me to understand security and learn about it.
 
 ### Andres Eduardo Lopez
 my expectations of the course is to improve my current skills to be a more complete developer.
+In general, our students say they expect to improve both their knowledge and skills of DevOps tools and processes.
+
+### Andres Eduardo Lopez
+my expectations of the course is to improve my current skills to be a more complete developer.
+
 ### Student SoftServe Giovanny Del Valle
 #TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
 
