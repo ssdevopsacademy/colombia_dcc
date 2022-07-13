@@ -1,0 +1,33 @@
+#!/usr/bin/python
+
+import datetime
+import paramiko
+import logging
+
+now = datetime.datetime.now()
+print("Hola -- %s"%(now.strftime("%Y-%m-%d %H:%M:%S")))
+
+#Change host ip address to the ip of the container that hosts the sftp service
+HOST = '172.19.0.2'
+USER = 'root'
+USERPASSWD = 'crashcoursesftp22'
+
+try:
+    paramiko.util.log_to_file( 'connsftp.log' )
+    arch = open('file.txt', 'w')
+    arch.write("Hola -- %s"%(now.strftime("%Y-%m-%d %H:%M:%S")))
+    arch.close()
+    logging.basicConfig(filename='connsftp.log', level='DEBUG')
+    logging.info('SFTP connection info')
+    client = paramiko.SSHClient()
+    client.set_missing_host_key_policy( paramiko.AutoAddPolicy() )
+    client.connect(HOST, username=USER, password=USERPASSWD)
+    sftp_client = client.open_sftp()
+    sftp_client.put('file.txt','file.txt')
+
+    sftp_client.close()
+    client.close()
+except paramiko.ssh_exception.AuthenticationException as e:
+    print('Failed Authentication')
+
+
