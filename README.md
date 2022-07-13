@@ -1,5 +1,3 @@
-# colombia_dcc
- Colombia SoftServe DevOps Crash Course
  ![N|Solid](https://media-exp2.licdn.com/dms/image/C4E0BAQEhqEYDn2-LkA/company-logo_100_100/0/1580391093627?e=1663200000&v=beta&t=EO7vueG3ailmZ1RfTbu4knkfQGiqf5LZa1RJ90nt5do)
 
  # DevOps Crash course -​ GIT From Zero
@@ -73,10 +71,12 @@
 
  ---
 ## Students Comments - What are your expectations of the course?
-#TODO: Some Developer did a mistake with the comments, we don't need the 5 comments below. We only need the comments of the new Students of the Crash Course, please delete the comments that you don't need and include the new ones, your comments.
+
+### Student SoftServe Jose Alcaraz
+DevOps is currently a very important methodology for companies due to the benefits in the software development flow that it provides. I am very excited to learn about DevOps and acquire knowledge from people who have a lot of experience working with this topic.
 
 ### Juan Pablo Montoya Pareja
-My expectations of the course is to know different DevOps tools and methodologies and meet how to apply them in the development process. 
+My expectations of the course is to know different DevOps tools and methodologies and meet how to apply them in the development process.
 
 ### Student SoftServe Luigi Giannandrea
 My expectations about the SoftServe DevOps Crash Course are foucused in learning more about the Philosophy of DevOps, the most used tools and how this helps to the current clients to improve the software development life cycle. Thanks a lot!
@@ -90,15 +90,6 @@ Espero del curso poder adquirir conocimientos, manejo de herramientas, aprender 
 ### Student Juan Calad
 I want to learn a LOT of DevOps, branching strategies, tools, best practices, security, some automation and more.
 
-### Student SoftServe 2
-Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
-
-### Student SoftServe 3
-Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
-
-### Student SoftServe 4
-Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
-
 ### Student Juan Pabo Castañeda Marín SoftServe comment 1
 Gain and improve devops skills than i been got it just by my self.
 
@@ -111,30 +102,18 @@ Help to create faster solutions with rights tools and knowlegde.
 ### Student Juan Pabo Castañeda Marín SoftServe comment 4
 Be aware of tools that help me to understand security and learn about it.
 
+### Andres Eduardo Lopez
+my expectations of the course is to improve my current skills to be a more complete developer.
 In general, our students say they expect to improve both their knowledge and skills of DevOps tools and processes.
-### Student SoftServe 6
-The need to innovate has never been more pronounced. Today’s managers know the importance of innovation firsthand but are not always sure of where to begin or how to make it a core competency within the business.
-
-### Student SoftServe 7
-Gain advanced insight on how to build, market, and deliver the perfect solution for end-users. Create compelling digital experiences that will appeal to customers and increase revenue.
-
 
 ### Andres Eduardo Lopez
 my expectations of the course is to improve my current skills to be a more complete developer.
-
-### Student SoftServe 8
-Go to market faster than ever, leveraging SoftServe’s experts to deliver on time. We develop secure software that bridges the gap between inspiration and results, delivering ideas with speed, quality, and within budget.
-
-### Student SoftServe 9
-Continuously enhance the digital approach and fine-tune the business to meet customer needs. Stay competitive and compliant, reducing risk with cutting-edge data and application security, as well as optimization techniques.
 
 ### Student SoftServe Giovanny Del Valle
 #TODO Laboratory concluded, in this course I hope to know how the Devops role is practiced within a development team.
 
 ### Manuel Castaño
 I expect from this course to strengthen my previous knowledge such as git, linux or docker. I hope to get started on topics that I have not covered before such as infrastructure as code, scripting, configuration management, among others, and finally I hope to learn a little about the day to day work as a devops engineer.
-
-### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
 
 ### Didier Vanegas
 
@@ -147,4 +126,36 @@ my expectations of this course is get knowledge about how depovs is implemented 
 ### Giovanny Del Valle
 I expect this course to teach me how to practice the Devops role within a development team and also to strengthen my previous knowledge.
 
+---
+### ARE YOU FINDING A MERGE CONFLICT HERE? TODO: SOLVE IT, merge and commit only with your feature branch, then create a PR to Main. A Mentor is going to Approve your PR. Please NOT MERGE it by yourself
 
+<br>
+
+## How the git merge conflict was fixed by [Jose Alcaraz](https://github.com/JoseAlcarazA "Jose Alcaraz")
+A git merge conflict, like the one presented in this case, is due to two developers modifying the same lines in a file, the first developer merges his changes. When the second developer goes to update his branch with the latest changes from the repository conflict is generated.
+To solve it, git provides help indicating which is the file that presents the conflict
+
+*Example:*
+>`Auto-merging README.md` <br>
+`CONFLICT (content): Merge conflict in README.md` <br>
+`Automatic merge failed; fix conflicts and then commit the result` <br>
+
+Also, inside the file, it shows which lines have the problem.
+
+*Example:*
+>`<<<<<<< HEAD` <br>
+`(Current Change)` <br>
+`=======` <br>
+`(Incoming Change)` <br>
+`>>>>>>>`
+
+You must choose the content between **"<<<<<<< HEAD y ======="** (Local branch changes) and **"======= y >>>>>>"** content present in the remote main branch.
+After choosing what information should be left in the file, changes must be saved.
+Now, you can add the changes and make a commit. Once this is done, the conflict will be resolved, and you can make the pull request to the main branch without any problem.
+
+*Commands:*
+>`git add .` <br>
+`git commit -m "message"` <br>
+`git push origin branch` <br>
+
+---
