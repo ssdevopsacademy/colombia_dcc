@@ -1,0 +1,4 @@
+#!/bin/bash
+#Since we need to use sftp -v -P 2222 foo@172.17.0.1 to access the server every 10 minutes and it requires a password
+#We will do sshpass automation for password autentification,  that is why in *"Dokerfile"* we installed  sshpass
+*/10 * * * * echo "--tocheck--" | sshpass -p “lab123” sftp -v -P 2222 foo@172.17.0.1 >> /tmp/log/cron.log 2>&1
