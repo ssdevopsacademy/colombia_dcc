@@ -147,4 +147,7 @@ my expectations of this course is get knowledge about how depovs is implemented 
 ### Giovanny Del Valle
 I expect this course to teach me how to practice the Devops role within a development team and also to strengthen my previous knowledge.
 
+### Diego Araque
+My expectation is to be able to deliver software more quickly with the tools learned in this course.
+
 
