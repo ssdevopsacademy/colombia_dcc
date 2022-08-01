@@ -1,0 +1,1 @@
+ssh -tt -o StrictHostKeyChecking=no -i /sftpKey sftpuser@172.17.0.2 -p 22
