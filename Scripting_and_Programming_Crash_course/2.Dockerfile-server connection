@@ -1,0 +1,21 @@
+#Pulling ubuntu image
+FROM ubuntu:latest
+
+# Add crontab file in the cron directory
+#Put programs in /etc/cron.d/ and it will automatically run when the container starts
+ADD crontab /etc/cron.d/connect-to-server-cron
+
+# Give execution rights on the cron job
+RUN chmod 0644 /etc/cron.d/connect-to-server-cron
+
+# Create the log file
+RUN touch /var/log/cron.log
+
+#Install Cron
+RUN apt-get update
+RUN apt-get -y install cron
+RUN apt-get sshpass
+
+# Run the command on container startup
+# Cron to foreground
+CMD cron && tail -f /var/log/cron.log
